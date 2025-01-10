@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Venkatraman Kannan @venkxycodes
 - 👀 I’m interested in Software development, particularly in full stack and data engineering
-- 🌱 I’m currently learning GoLang, NodeJS and ReactJS
+- 🌱 I’m currently learning GoLang, NextJS and ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? LinkedIn https://www.linkedin.com/in/venkxy30/
 - 
