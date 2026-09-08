@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Venkatraman Kannan @venkxycodes
-- 👀 I’m interested in Software development, particularly in full stack and data engineering
-- 🌱 I’m currently learning GoLang, Python and Next.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I build stuff - I'm curious and passionate about building things in AI, product and platform engineering and have proven track record of significant contributions in the workplaces I've worked so far
 - 📫 How to reach me? LinkedIn https://www.linkedin.com/in/venkxy30/
 - 
 <!---
